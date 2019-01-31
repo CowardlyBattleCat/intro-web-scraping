@@ -42,22 +42,25 @@ Well... that was easy!
 
 
 ## Overview
-The goal of this brief course is to provide you with a fun introduction to web Scraping Python.
+The goal of this brief course is to provide you with a fun introduction to web scraping using Python.
 
 #### Here's what we'll be doing:
 * A primer on some technologies we're going to use
 * Building a simple web scraper with Python
-* I'll leave you with a coupl challenges at the end. You can try to complete them here if we have time, or try them at home!
+* I'll leave you with a couple challenges at the end. You can try to complete them here if we have time or try them at home!
 
 
 ## About me:
-Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love making things with technology! Currently learning more about computer vision with deep learning and helping a startup with a lane detection system for a self driving car application.
+I'm Thomas Adams. I'm a data scientist with a background in science, languages, and music and a graduate of the Galvanize Data Science Immersive program. Previously, I've taught a variety of subjects at the middle and high school levels. I love making tools and solving problems, finding hidden connections in all things, and helping others build their understanding and capabilities. I'm currently exploring projects involving the intersection of data science with game design as well as different applications of artificial neural networks. I'm happy to correspond with any of you about data science, Galvanize, chemistry, linguistics, brain science, game design, music, etc. I'd love to hear from you:
 
- I'm not a Galvanize Instructor, they're way better at teaching!
+- LinkedIn: [CowardlyBattleCat](https://www.linkedin.com/in/cowardlybattlecat/)
+- GitHub: [CowardlyBattleCat](https://github.com/CowardlyBattleCat)
+- Email: [thomas.harlan.adams@gmail.com](mailto:thomas.harlan.adams@gmail.com)
 
-- Website: [sageelliott.com](http://sageelliott.com/)
-- Twitter: [@sagecodes](https://twitter.com/@sagecodes)
+I've adapted the curriculum for this workshop from materials created by [Sage Elliott](http://sageelliott.com/), a Technology Evangelist here at Galvanize. Sage is awesome! Check out his work and reach out to him if you have questions:
+
 - LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
+- GitHub: [sagecodes](https://github.com/sagecodes)
 - Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
 
 
@@ -73,24 +76,24 @@ Give a quick Intro!
 ## Web Scraping
 
 ### What is it?
-I usually describe it as using a program to get data from the web by pulling content without an API(Application Program Interface).
+I usually describe it as using a program to get data from the web by pulling content without an API (Application Program Interface).
 
-Many sites have APIs you can connect to and use to pull data from.  Such as the [Twitter API](https://developer.twitter.com/en/docs.html). This is great! But sometimes you need data from a site that doesn't have an API. Thats what we're going to look at in this workshop. A lot of weather data can usually be pulled from an API.
+Many sites have APIs you can connect to and use to pull data. The [Twitter API](https://developer.twitter.com/en/docs.html) is a nice example. APIs can be used to gather weather data, sports scores, ebay listings and more. This is great! Sometimes, however, you need data from a site that doesn't have an API. Thats what we're going to look at in this workshop. 
 
 
 ### Where is it used?
 
-Really any where you think it would be appriate to gather data. 
+Really anywhere you think it would be interesting or useful to gather data. 
 
-Some people I've met have built web scraper to look for jobs & find apartments.
+Some people I've met have built web scrapers to look for jobs & find apartments.
 
-Companies may search for email or contact information
+Organizations may search for email or contact information.
 
-Competitive analysis on a competing company, what prices do they have?
+Companies might perform competitive analysis on a competing company to find their listings and prices.
 
-Realtors may scrape housing listings
+Realtors can scrape housing listings.
 
-Understand sentiment and words in reviews
+Market researchers will investigate sentiment and words in reviews.
 
 Anytime you want data!
 
