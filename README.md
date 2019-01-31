@@ -35,7 +35,7 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 
 * A web browser to see what we're working on as others see it (Recommend Google Chrome: [chrome.google.com] (http://chrome.google.com))
 
-* We will be using an online text editor for this workshop. You can sign up here: [https://repl.it/](https://repl.it/)
+* We will be using a google colaboratory notebook for this workshop, so you'll need access to a google drive where you can edit and save. You can sign up here if you don't already have a google account: [www.google.com/drive/](https://www.google.com/drive/)
 
 
 Well... that was easy! 
