@@ -13,7 +13,7 @@ Get to this repo by typing in URL: **scrape.sage.codes**
 
 ## What this workshop is
 
-A super friendly introduction to web scraping No previous experience expected, but some concepts may be confusing if you have never programmed before. If you get too lost let me know!
+A super friendly introduction to web scraping. No previous experience expected, but some concepts may be confusing if you have never programmed before. If you get too lost, let me know!
 
 You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited and comfortable to keep working and learning on your own! 
 
