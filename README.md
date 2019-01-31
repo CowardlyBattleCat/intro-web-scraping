@@ -102,7 +102,7 @@ Anytime you want data!
 
 ### HTML Basics
 
-HTML is one of the main building blocks of the web!
+HTML is one of the main building blocks of the web! Don't worry about memorizing all of this if it's unfamiliar, but feel free to use this a quick reference to make sense the stuff we'll be seeing.
 
 ###### Some common Tags(Elements):
 
@@ -110,7 +110,7 @@ HTML is one of the main building blocks of the web!
 - `<head>`	contains undisplayed information about the document
 - `<title>`	Creates a title for the document
 - `<body>`	contains displayed information
-- `<header>, <main>, <footer>` denotes which part of the page elements belong
+- `<header>, <main>, <footer>` denote which part of the page elements belong to
 
 - `<h1> - <h6>` create section headings (h1 biggest, h6 Smallest)
 - `<p>` creates paragraphs
@@ -130,7 +130,8 @@ most HTML tags require an opening and a closing tag. There are a few however tha
 
 ###### IDs, Classes
 IDs and classes are very similar.
-These are used to target specific elements(You'll see more examples in CSS section).
+These are used to target specific elements (you'll see more examples in the CSS section).
+
 - `<h1 id="profile-header"></h1>`
 - `<h1 class="subject-header"></h1>`
 
@@ -148,7 +149,7 @@ Learn more HTML [here](https://www.w3schools.com/Html/)
 - Go to a web page
 - right click
 - select `inspect element	`
-- you should not see a pop up or frame showing the HTML of a web page.
+- you should now see a pop up or frame showing the HTML of a web page.
 
 
 ### Python
