@@ -156,7 +156,7 @@ Learn more HTML [here](https://www.w3schools.com/Html/)
 
 We're going to be using python to do our web scraping.
 
-Don't worry if you've never programmed in python or at all before, I will explain concepts along the way. And if you want me to repeat something just ask! We'll be doing a free intro to python workshop in January too if you want to go deeper! Or go through our [free data science prep material](https://www.galvanize.com/data-science-prep).
+Don't worry if you've never programmed in python or at all before! I will explain concepts along the way. And if you want me to repeat something just ask. We'll be doing a free intro to python workshop in February too if you want to go deeper! Or go through our [free data science prep material](https://www.galvanize.com/data-science-prep).
 
 ##### Requests
 
@@ -164,7 +164,7 @@ We will use the [Requests](http://docs.python-requests.org/en/master/) module to
 
 ##### Beautiful Soup
 
-We will use [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) is used to parse HTML and extract the information we need.
+We will use [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) to parse HTML and extract the information we need.
 
 
 ##### Pandas
@@ -177,7 +177,7 @@ We'll use [NLTK](https://www.nltk.org/)(Natural Language Toolkit) to do some sim
 
 ##### Google Colab
 
-We'll use google collab as our editor. It comes preinstalled with everything we need.
+We'll use google collab as our editor. It comes preinstalled with everything we need, including the 4 modules mentioned above!
 
 
 ## Lets scrape data from the web!
