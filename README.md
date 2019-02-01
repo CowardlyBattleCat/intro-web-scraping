@@ -2,7 +2,7 @@
 
 Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
 
-Get to this repo by typing in URL: **scrape.sage.codes**
+Get to this repo by typing in URL: **bit.ly/CowBatCatScrape**
 
 ### FAQ: 
 
@@ -15,7 +15,7 @@ Get to this repo by typing in URL: **scrape.sage.codes**
 
 A super friendly introduction to web scraping. No previous experience expected, but some concepts may be confusing if you have never programmed before. If you get too lost, let me know!
 
-You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited and comfortable to keep working and learning on your own! 
+You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited and comfortable enough to keep working and learning on your own! 
 
 - This course is for absolute beginners
 - Ask Questions!
@@ -78,7 +78,7 @@ Give a quick Intro!
 ### What is it?
 I usually describe it as using a program to get data from the web by pulling content without an API (Application Program Interface).
 
-Many sites have APIs you can connect to and use to pull data. The [Twitter API](https://developer.twitter.com/en/docs.html) is a nice example. APIs can be used to gather weather data, sports scores, ebay listings and more. This is great! Sometimes, however, you need data from a site that doesn't have an API. Thats what we're going to look at in this workshop. 
+Many sites have APIs you can connect to and use to pull data. The [Twitter API](https://developer.twitter.com/en/docs.html) is a nice example. APIs can be used to gather weather data, sports scores, ebay listings, and more. This is great! Sometimes, however, you need data from a site that doesn't have an API. Thats what we're going to look at in this workshop. 
 
 
 ### Where is it used?
@@ -108,16 +108,15 @@ HTML is one of the main building blocks of the web! Don't worry about memorizing
 
 - `<html>`	designates an HTML document
 - `<head>`	contains undisplayed information about the document
-- `<title>`	Creates a title for the document
+- `<title>`	creates a title for the document
 - `<body>`	contains displayed information
 - `<header>, <main>, <footer>` denote which part of the page elements belong to
-
 - `<h1> - <h6>` create section headings (h1 biggest, h6 Smallest)
 - `<p>` creates paragraphs
 - `<a href=""></a>` (anchor), activates a link in the page
-- `<ul>, <ol>` creates lists
-  - `<li>` contains items in lists
-- `<br>`	Inserts a single line break
+- `<ul>, <ol>` create lists
+- `<li>` contains items in lists
+- `<br>`	inserts a single line break
 
 
 ###### Self-closing Tags:
@@ -130,7 +129,7 @@ most HTML tags require an opening and a closing tag. There are a few however tha
 
 ###### IDs, Classes
 IDs and classes are very similar.
-These are used to target specific elements (you'll see more examples in the CSS section).
+These are used to target specific elements (you'll see more examples of these if you read up on [CSS](https://www.w3schools.com/css/)).
 
 - `<h1 id="profile-header"></h1>`
 - `<h1 class="subject-header"></h1>`
@@ -177,7 +176,7 @@ We'll use [NLTK](https://www.nltk.org/)(Natural Language Toolkit) to do some sim
 
 ##### Google Colab
 
-We'll use google collab as our editor. It comes preinstalled with everything we need, including the 4 modules mentioned above!
+We'll use [google colab](https://colab.research.google.com/) as our editor. It comes preinstalled with everything we need, including the 4 modules mentioned above!
 
 
 ## Lets scrape data from the web!
@@ -185,24 +184,28 @@ We'll use google collab as our editor. It comes preinstalled with everything we 
 Here's what we will do!
 
 - Look at data tags
-- write code to get data
+- Write code to get data
 - Look at scraped data
-- get specific parts of the data
-- transform the data for different use case
-- minor visulizations for the data so we can understand it better
-- Basic Sentiment Analysis on headlines to see how negative they are
+- Get specific parts of the data
+- Transform the data for different use cases
+- Create quick visulizations for the data so we can understand it better
+- Perform basic sentiment analysis on headlines to see how negative they are
 
 
 #### Get Started:
 
-- Open the notebook for this workshop [here](https://colab.research.google.com/drive/1UzyruU8hLorhEZb4RmHqh7pMQjt7mDeQ).
+Let's dive in!
 
-Make a copy by clicking `file` and `make copy` or `save to drive`
+- Open the notebook for this workshop [here](hhttps://colab.research.google.com/drive/1PLiZDgKdSH3j_rHeMFq4boZFHVaOT-d5).
+
+Make a copy by clicking `file` and `make copy` or `save to drive`. Feel free to give the notebook a new name (at least to remove 'Copy of' and add your own name).
 
 
 # Awesome, you now know the basics of web scraping!
 
-Book mark this repo or the colla notebook and experiement with the code. Try a different website. 
+Book mark this repo or the colab notebook and experiement with the code. Try a different website. 
+
+If you have a GitHub account already, feel free to fork and clone this repo if you'd like to have a local copy on your machine.
 
 
 ## Challenges
@@ -211,16 +214,16 @@ Book mark this repo or the colla notebook and experiement with the code. Try a d
 - Scrape a different site
 - Visiualise your data better using [matplotlib](https://matplotlib.org/)
 - Save your data to a file or database
-- Sentiment analysis on headlines like Google news
+- Perform sentiment analysis on headlines like Google news
 
 
 # Keep Learning
 
-- [Free Data Science Prep](https://www.galvanize.com/data-science-prep)
+- [Free Data Science Prep](https://www.galvanize.com/data-science-prep) This course will be strong preparation for those considering the Galvanize DS Immersive
 
 
 
-- Checkout [Scrapy](https://scrapy.org/). Another python module foring doing web scraping. 
+- Checkout [Scrapy](https://scrapy.org/), another python module foring doing web scraping, or [Selenium](https://pypi.org/project/selenium/), a module for automating web browser interaction.
 
 
 
@@ -229,17 +232,16 @@ Book mark this repo or the colla notebook and experiement with the code. Try a d
 
 We host so many events! check out our [calendar](https://www.galvanize.com/events)
 
-Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
+Visit the [Learn to Code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
 
 
 ## What is Galvanize?
-###### We are a community!
+#### We are a community!
 
 
-#### Immersive Bootcamp
+#### Immersive Bootcamps
 
 - [Data Science](https://www.galvanize.com/data-science) - 5/6/19 - 8/2/19 
-
 - [Software Engineer](https://www.galvanize.com/web-development) - 2/19/19 - 5/17/19
 
 #### Part-Time Courses
@@ -249,14 +251,17 @@ Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) me
 
 #### Co-working Space
 
-[work in our building!](https://www.galvanize.com/entrepreneur)
-
-#### We are a community
+- [Work in our building!](https://www.galvanize.com/entrepreneur)
 
 ## Questions
 
 Please feel free to reach out to me with any questions! Let me know what you're planning to do next and how I can help!
 
+- LinkedIn: [CowardlyBattleCat](https://www.linkedin.com/in/cowardlybattlecat/)
+- GitHub: [CowardlyBattleCat](https://github.com/CowardlyBattleCat)
+- Email: [thomas.harlan.adams@gmail.com](mailto:thomas.harlan.adams@gmail.com)
+
+And be sure to contact Sage as well if you have any specific questions about Galvanize or its facilities/programs/workshops!
 
 - Website: [sageelliott.com](http://sageelliott.com/)
 - Twitter: [@sagecodes](https://twitter.com/@sagecodes)
