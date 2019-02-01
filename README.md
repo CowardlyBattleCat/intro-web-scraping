@@ -203,9 +203,9 @@ Make a copy by clicking `file` and `make copy` or `save to drive`. Feel free to 
 
 # Awesome, you now know the basics of web scraping!
 
-Book mark this repo or the colab notebook and experiement with the code. Try a different website. 
+Book mark this repo or the colab notebook and experiment with the code. Try a different website. 
 
-If you have a GitHub account already, feel free to fork and clone this repo if you'd like to have a local copy on your machine.
+If you have a GitHub account already, feel free to fork/clone this repo if you'd like to have a local copy on your machine or make your own changes.
 
 
 ## Challenges
