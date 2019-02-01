@@ -196,7 +196,7 @@ Here's what we will do!
 
 Let's dive in!
 
-- Open the notebook for this workshop [here](hhttps://colab.research.google.com/drive/1PLiZDgKdSH3j_rHeMFq4boZFHVaOT-d5).
+- Open the notebook for this workshop [here](https://colab.research.google.com/drive/1PLiZDgKdSH3j_rHeMFq4boZFHVaOT-d5).
 
 Make a copy by clicking `file` and `make copy` or `save to drive`. Feel free to give the notebook a new name (at least to remove 'Copy of' and add your own name).
 
